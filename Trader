@@ -2,7 +2,7 @@ Here is a slightly updated one...As of 11/18/2020 for v1.10 of DayZ
 Put them in the appropriate areas obviously...And adjust prices for your own server.
 I hope this helps all you guys...
 Enjoy....
-		<Category> Mortys Weapons
+			<Category> Mortys Weapons
 		TTC_KAC, 			W, 	20000, 7500
 		TTC_MAS36, 			W, 	20000, 7500
 		TTC_Winchester1873, 		W, 	20000, 7500
@@ -24,6 +24,8 @@ Enjoy....
 		TTC_M16, 			W, 	20000, 7500
 		TTC_SCARL, 			W, 	20000, 7500
 		TTC_SCARLTan, 			W, 	20000, 7500
+		TTC_SCARLSnow, 			W, 	20000, 7500
+		TTC_SCARLBlack, 		W, 	20000, 7500
 		TTC_SCARH, 			W, 	20000, 7500
 		TTC_AEK973, 			W, 	20000, 7500
 		TTC_M4DMR, 			W, 	20000, 7500
